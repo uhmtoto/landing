@@ -158,7 +158,7 @@ export default {
 <style scoped>
 .card {
   position: relative;
-  width: 30em;
+  width: 30rem;
   height: 100%;
   background-color: #f6f6f6;
   border-radius: 15px;
@@ -167,7 +167,7 @@ export default {
   font-weight: 300;
   overflow-x: hidden; 
   overflow-y: scroll;
-  margin-right: 10px;
+  padding: 10px;
 }
 
 .button {
