@@ -34,7 +34,7 @@ export default {
 .container {
   width: 100vw;
   height: 100vh;
-  padding: 20px 5px;
+  padding: 20px 8px;
   box-sizing: border-box;
   display: flex;
   align-items: center;
