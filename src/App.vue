@@ -44,6 +44,10 @@ export default {
   background: linear-gradient(to right, #E9E4F0, #D3CCE3);
 }
 
+body {
+  margin: 0;
+}
+
 a {
   text-decoration: none;
 }
