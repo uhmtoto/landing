@@ -168,6 +168,7 @@ export default {
   overflow-x: hidden; 
   overflow-y: scroll;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .button {
