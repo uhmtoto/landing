@@ -159,7 +159,7 @@ export default {
 .card {
   position: relative;
   width: 30em;
-  height: 40%;
+  height: 100%;
   background-color: #f6f6f6;
   border-radius: 15px;
   box-shadow: 20px 20px 60px #d1d1d1, -20px -20px 60px #ffffff;
@@ -167,6 +167,7 @@ export default {
   font-weight: 300;
   overflow-x: hidden; 
   overflow-y: scroll;
+  margin-right: 10px;
 }
 
 .button {
